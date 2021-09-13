@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Wesley
+- 👀 I’m interested in IOS/Swift, Java, NextJS
+- 🌱 I’m currently learning NextJs...
